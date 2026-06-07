@@ -44,7 +44,7 @@ This project analyzes Blinkit grocery sales data using Microsoft Excel. The dash
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Project Files
 
